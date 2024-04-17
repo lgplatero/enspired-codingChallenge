@@ -3,5 +3,6 @@
 In order to run the code, execute the following steps:
 
 - make initvenv
-- source ./.venv/bin/activate 
+- source ./.venv/bin/activate
+- make dependencies 
 - make launchlocal
